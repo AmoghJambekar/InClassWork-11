@@ -1,5 +1,9 @@
 # Build outputs
 memory_lab
+buggy_part_c
+part_c_leak
+part_c_double_free
+part_c_uaf
 *.o
 *.out
 
