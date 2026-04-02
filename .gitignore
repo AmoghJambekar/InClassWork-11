@@ -1,0 +1,7 @@
+# Build outputs
+memory_lab
+*.o
+*.out
+
+# macOS debug symbols
+*.dSYM/
